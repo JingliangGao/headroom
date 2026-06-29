@@ -78,6 +78,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 
+## [0.28.1](https://github.com/headroomlabs-ai/headroom/compare/v0.28.0...v0.28.1) (2026-06-29)
+
+
+### Bug Fixes
+
+* **opencode:** route native providers + load transport plugin, fix Serena context ([#1573](https://github.com/headroomlabs-ai/headroom/issues/1573)) ([ad0034f](https://github.com/headroomlabs-ai/headroom/commit/ad0034f98191501c1a60d26383bc3ed9f6d532be))
+
 ## [0.28.0](https://github.com/headroomlabs-ai/headroom/compare/v0.27.0...v0.28.0) (2026-06-29)
 
 
